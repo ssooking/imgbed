@@ -6,4 +6,7 @@ categories: []
 tags: []
 ---
 
-My image bed
+My github hexo blog image bed
+
+- https://ssooking.github.io/
+- http://ssooking.coding.me/
